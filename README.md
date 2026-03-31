@@ -24,7 +24,6 @@ Email Me 👉 ✉️ **prabirrana255@gmail.com** For Collaboration/Project or An
 [![](https://visitcount.itsvg.in/api?id=prabirrana-studio&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
